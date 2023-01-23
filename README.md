@@ -1,3 +1,5 @@
 # Practica_1_Christian
-Inicio de practicas de microcontroladores practica 1 (OpenOCD, Git, CMSIS, TIVA C)
-PRACTICA DE LEDS
+# Practica_1TM4C123
+Practica que consiste en el parpadeo de LEDs 
+Video del funcionamiento 
+https://youtube.com/shorts/lfw6ABhu4ME?feature=share
